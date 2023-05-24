@@ -4,3 +4,4 @@
   - CyberLink_PowerDirector_Downloader.exe
 
 ### [OpenShot](https://www.openshot.org/ja/)
+  - OpenShot-v3.1.1-x86_64.exe
